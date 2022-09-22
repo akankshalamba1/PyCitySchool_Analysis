@@ -3,7 +3,12 @@ Analysis of District School
 
 ## Summary of Findings: 
 
-In this assignment we work on District school data, we work on a CSV file with 19515 columns and 8 rows. Our goal for this challenge is to evaluate the data using Pandas and to draw the conclusion based on it. The software we used for this analysis is Jupyter notebook to write our code. 
+In this assignment we work on District school data, we work on a CSV file with 19515 columns and 8 rows. Our goal for this challenge is to evaluate the data using Pandas and to draw the conclusion based on it. The software we used for this analysis is Jupyter notebook to write our code.
+The csv file used in the analysis is attached here:
+
+[School_Analysis](/Student_Data_Challenge_Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb)
+
+
 Through out our evaluation we performed following steps to model the data:
 
 1. Collect the student data into a DataFrame.
@@ -13,7 +18,6 @@ Through out our evaluation we performed following steps to model the data:
 5. Compare and contrast the data through grouping and aggregation functions.
 
 During our analysis we used functions like: .dtype, .isna(), .sum(), .dropna(), .duplication(), .replace, .mean(), .min() and .groupby() function. 
-
 
 ## Analysis outcome: 
 
